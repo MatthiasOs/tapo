@@ -4,6 +4,7 @@ beliebige UUID online selber generieren, zb auf https://www.uuidgenerator.net/
 
 ## Token von Tapo abfragen
 Token hält nur ein paar Minuten!
+
 **Email, Passwort und UUID ersetzen!**
 ```
 curl -X POST \
@@ -72,6 +73,7 @@ Antwort:
 ```
 ## Geräte Status abfragen
 **deviceId aus der Geräteliste oben nehmen**
+
 **Token ersetzen!**
 ```
   curl -X POST \
