@@ -56,7 +56,7 @@ Antwort:
 				"deviceId": "8022469BE9ABA7E---redacted---",
 				"deviceName": "P115",
 				"deviceHwVer": "1.0",
-				"alias": "U3RhbmRsaWNodCAy",
+				"alias": "U3Rhbm---redacted---",
 				"deviceMac": "40---redacted---",
 				"oemId": "763B71FDC7202E1AC---redacted---",
 				"deviceModel": "P115(EU)",
